@@ -6,3 +6,15 @@ Git configration in your system
 4) create your folder in c drive and than go in folder (cd folderName/)
 5) folderName config --global user.name "your user name"
 6) folderName config --global user.email yourEmailId
+7) git clone https://github.com/repositories/
+8) $ ls
+	GitInstallation/
+9) go in this file ( cd GitInstallation/ )
+10) git add fileName.txt
+11) $ git commit -m "first commit" fileName.txt
+12) git push -u origin master
+
+/* your file upload in your repositories */
+
+
+
