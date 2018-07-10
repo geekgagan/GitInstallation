@@ -1,0 +1,8 @@
+Git configration in your system
+
+1) install Git
+2) Open Git Bash
+3) cd /c
+4) create your folder in c drive and than go in folder (cd folderName/)
+5) folderName config --global user.name "your user name"
+6) folderName config --global user.email yourEmailId
